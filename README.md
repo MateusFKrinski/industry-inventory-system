@@ -42,7 +42,7 @@ industry-inventory-system/
 └── README.md
 ```
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 
@@ -71,7 +71,7 @@ docker-compose up -d
 | **Swagger UI**  | http://localhost:8080/q/swagger-ui |
 | **PostgreSQL**  | localhost:5432                     |
 
-## 💻 Desenvolvimento Local
+## Desenvolvimento Local
 
 ### Backend (Quarkus)
 
